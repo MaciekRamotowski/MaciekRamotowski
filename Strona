@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Maciej Ramotowski</title>
+    <link rel="stylesheet" type="text/css " href="css/style.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inspiration&family=Merriweather&family=Montserrat:ital@1&family=Sacramento&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class ="top-container">
+      <img class="top-cloud" src="images/cloud.png" alt="cloud-img">
+      <h1>I'm Maciek</h1>
+      <h2><p> <span class="pro">(MSC)</span>Global business manager.</p></h2>
+      <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
+      <img src="images/mountain.png" alt="mountain-img">
+    </div>
+    <div class="middle-container">
+      <div class="profile">
+        <img src="images/Maciek.png" alt="Maciek-img">
+        <h2>Hello.</h2>
+        <p class="My name is">
+
+        </p>My name is Maciek Ramotowski.
+           Motivated business leader with 10 years of progressive experience in management and operations. Team player dedicated to helping employees improve their skills and techniques in order to reach larger goals. Visionary behind company operations and strategies. Detail-oriented multi-tasker who thrives in fast-paced environments.</p>
+      </div>
+      <hr>
+      <div class="skills">
+        <h2>Passion</h2>
+        <div class="skill-row">
+          <img class="skile1" src="images/leadership.png" alt="leadership.png">
+          <h3>Leadership</h3>
+          <p>Excellent at analyzing team strengths and leveraging individual assets to reach business goals efficiently. -Exceptional verbal, written, and interpersonal communication. -Active listener committed to providing helpful feedback tailored to employees’ strengths and opportunities. -Thorough working knowledge of sales current and emerging best practices.</p>
+        </div>
+        <div class="skill-row">
+          <img class="skile" src="images/schedule.png" alt="schedule.png-img">
+          <h3>Professional management</h3>
+          <p>Efficient and strategic planner with strong interpersonal skills and well-developed leadership qualities.</p>
+        </div>
+      </div>
+      <hr>
+      <div class="">
+        <h2 class="cm">Thank you for your attention</h2>
+        <h2 class="cm">Get In Touch</h2>
+        <p></p>
+        <a class="btn" href="mailto:maciejramotowski1990@gmail.com">CONTACT ME</a>
+      </div>
+    </div>
+
+
+    <div class="bottom-container">
+      <a class="footer-link" href="https://uk.linkedin.com/in/maciek-ramotowski-9a7229181">LinkedIn</a>
+      <a class="footer-link" href="https://www.facebook.com/Maciej.Ramotowski/">facebook</a>
+      <p class="copy">© Maciej Ramotowski 2022.</p>
+    </div>
+
+
+  </body>
+</html>
